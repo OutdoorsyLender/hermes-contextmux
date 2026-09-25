@@ -1,0 +1,6 @@
+2026-09-24T19:59:00.323Z dispatch ready-1 opened: leaf-1.1.1
+2026-09-24T20:00:42.253Z dispatch ready-1 started leaf-1.1.1 as sa-0-375bedde
+2026-09-24T20:00:42.380Z dispatch ready-1 sealed
+2026-09-24T20:26:47.625Z dispatch ready-1 returned leaf-1.1.1
+leaf-1.1.1 G2 manual: driver ran scripts/leaktest-probe.py — PASSED, no sentinel content reached disk (4 sentinels x 5 shapes x 2 modes), caller payload unmutated
+leaf-1.1.1 lease released

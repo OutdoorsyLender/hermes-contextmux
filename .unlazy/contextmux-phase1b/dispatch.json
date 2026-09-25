@@ -1,0 +1,25 @@
+{
+  "schema": 1,
+  "waves": {
+    "ready-1": {
+      "leaves": [
+        "leaf-1.1.1"
+      ],
+      "state": "complete",
+      "openedAt": "2026-09-24T19:59:00.312Z",
+      "started": {
+        "leaf-1.1.1": {
+          "handle": "sa-0-375bedde",
+          "at": "2026-09-24T20:00:42.243Z"
+        }
+      },
+      "returned": {
+        "leaf-1.1.1": {
+          "at": "2026-09-24T20:26:47.615Z"
+        }
+      },
+      "sealedAt": "2026-09-24T20:00:42.365Z",
+      "completedAt": "2026-09-24T20:26:47.615Z"
+    }
+  }
+}
